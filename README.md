@@ -4,7 +4,7 @@
 
 > Seis minijuegos interactivos para entender, identificar y nombrar la violencia de género. Basados en glosario académico completo con más de 80 términos y referencias bibliográficas.
 
-🌐 **[Acceder a la herramienta →](https://saraluciacabanilla-design.github.io/violencia-de-ge-nero/hub_violencia_genero_fixed.html)**
+🌐 **[Acceder a la herramienta →](file:///C:/Users/saral/Downloads/hub_violencia_genero_fixed.html)**
 
 ---
 
